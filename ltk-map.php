@@ -14,7 +14,7 @@ foreach($lingotek_locales_tms->entities as $locale_obj){
 }
 sort($lingotek_locales);
 
-$locales_filename = $argv[1];//'zendesk-locales.txt'
+$locales_filename = $argv[1];//ex. 'zendesk-locales.txt'
 $details = !(strpos($argv[2], '-json')!==FALSE);//"json only"
 
 $language_default_locales = (array)json_decode(file_get_contents('data/language-default-locales.json'));
@@ -52,21 +52,17 @@ function find_lingotek_locale($locale) {
 	return $found_lingotek_locale;
 }
 
-//print_r($new_locale_map);
 
 $found = 0;
 $missing = 0;
 $total = 0;
-
-//print_r(is_array($locales)); die();
-
 $missing_locales = [];
 
 foreach($new_locale_map as $locale=>$value){
 	$lingotek_locale = find_lingotek_locale($locale);
 	if($lingotek_locale){
 		$new_locale_map[$locale] = $lingotek_locale;
-		//echo "$locale => $lingotek_locale \n";
+		//echo "$locale => $lingotek_locale (hit) \n";
 		$found++;
 	} else {
 		//echo "$locale (miss)\n";
@@ -75,7 +71,6 @@ foreach($new_locale_map as $locale=>$value){
 	}
 	$total ++;
 }
-
 
 
 if($details) {
@@ -95,5 +90,3 @@ if($details) {
 } else {
 	print_r(json_encode($new_locale_map));
 }
-//print_r($locales);
-
