@@ -1,0 +1,6373 @@
+{
+  "class": [
+    "locales",
+    "Collection"
+  ],
+  "properties": {
+    "title": "Locales",
+    "limit": 10000000,
+    "total": 254,
+    "offset": 0,
+    "size": 254
+  },
+  "entities": [
+    {
+      "class": [
+        "locale",
+        "ab"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ab-GE",
+        "language_code": "ab",
+        "country_code": "GE",
+        "title": "Abkhaz, Georgia",
+        "country": "Georgia",
+        "language": "Abkhaz"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ab-GE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "af"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "af-ZA",
+        "language_code": "af",
+        "country_code": "ZA",
+        "title": "Afrikaans, South Africa",
+        "country": "South Africa",
+        "language": "Afrikaans"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/af-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ak"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ak-GH",
+        "language_code": "ak",
+        "country_code": "GH",
+        "title": "Akan Asante, Ghana",
+        "country": "Ghana",
+        "language": "Akan Asante"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ak-GH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "am"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "am-ET",
+        "language_code": "am",
+        "country_code": "ET",
+        "title": "Amharic, Ethiopia",
+        "country": "Ethiopia",
+        "language": "Amharic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/am-ET"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "apa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "apa-US",
+        "language_code": "apa",
+        "country_code": "US",
+        "title": "Apache, United States",
+        "country": "United States",
+        "language": "Apache"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/apa-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-AE",
+        "language_code": "ar",
+        "country_code": "AE",
+        "title": "Arabic, United Arab Emirates",
+        "country": "United Arab Emirates",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-AE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-AF",
+        "language_code": "ar",
+        "country_code": "AF",
+        "title": "Arabic, Afghanistan",
+        "country": "Afghanistan",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-AF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-BH",
+        "language_code": "ar",
+        "country_code": "BH",
+        "title": "Arabic, Bahrain",
+        "country": "Bahrain",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-BH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-DZ",
+        "language_code": "ar",
+        "country_code": "DZ",
+        "title": "Arabic, Algeria",
+        "country": "Algeria",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-DZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-EG",
+        "language_code": "ar",
+        "country_code": "EG",
+        "title": "Arabic, Egypt",
+        "country": "Egypt",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-EG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-IQ",
+        "language_code": "ar",
+        "country_code": "IQ",
+        "title": "Arabic, Iraq",
+        "country": "Iraq",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-IQ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-JO",
+        "language_code": "ar",
+        "country_code": "JO",
+        "title": "Arabic, Jordan",
+        "country": "Jordan",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-JO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-LY",
+        "language_code": "ar",
+        "country_code": "LY",
+        "title": "Arabic, Libya",
+        "country": "Libya",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-LY"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-MA",
+        "language_code": "ar",
+        "country_code": "MA",
+        "title": "Arabic, Morocco",
+        "country": "Morocco",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-MA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-MR",
+        "language_code": "ar",
+        "country_code": "MR",
+        "title": "Arabic, Mauritania",
+        "country": "Mauritania",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-MR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-OM",
+        "language_code": "ar",
+        "country_code": "OM",
+        "title": "Arabic, Oman",
+        "country": "Oman",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-OM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-SA",
+        "language_code": "ar",
+        "country_code": "SA",
+        "title": "Arabic, Saudi Arabia",
+        "country": "Saudi Arabia",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-SA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-SD",
+        "language_code": "ar",
+        "country_code": "SD",
+        "title": "Arabic, Sudan",
+        "country": "Sudan",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-SD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-SY",
+        "language_code": "ar",
+        "country_code": "SY",
+        "title": "Arabic, Syria",
+        "country": "Syria",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-SY"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-TD",
+        "language_code": "ar",
+        "country_code": "TD",
+        "title": "Arabic, Chad",
+        "country": "Chad",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-TD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-TN",
+        "language_code": "ar",
+        "country_code": "TN",
+        "title": "Arabic, Tunisia",
+        "country": "Tunisia",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-TN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-UZ",
+        "language_code": "ar",
+        "country_code": "UZ",
+        "title": "Arabic, Uzbekistan",
+        "country": "Uzbekistan",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-UZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar-YE",
+        "language_code": "ar",
+        "country_code": "YE",
+        "title": "Arabic, Yemen",
+        "country": "Yemen",
+        "language": "Arabic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar-YE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "as"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "as-IN",
+        "language_code": "as",
+        "country_code": "IN",
+        "title": "Assamese, India",
+        "country": "India",
+        "language": "Assamese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/as-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ast"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ast-ES",
+        "language_code": "ast",
+        "country_code": "ES",
+        "title": "Asturian, Spain",
+        "country": "Spain",
+        "language": "Asturian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ast-ES"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ay"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ay-BO",
+        "language_code": "ay",
+        "country_code": "BO",
+        "title": "Aymara, Bolivia",
+        "country": "Bolivia",
+        "language": "Aymara"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ay-BO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "az"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "az-AZ",
+        "language_code": "az",
+        "country_code": "AZ",
+        "title": "Azerbaijani, Azerbaijan",
+        "country": "Azerbaijan",
+        "language": "Azerbaijani"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/az-AZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ba"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ba-RU",
+        "language_code": "ba",
+        "country_code": "RU",
+        "title": "Bashkir, Russia",
+        "country": "Russia",
+        "language": "Bashkir"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ba-RU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "be"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "be-BY",
+        "language_code": "be",
+        "country_code": "BY",
+        "title": "Belarusian, Belarus",
+        "country": "Belarus",
+        "language": "Belarusian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/be-BY"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bg"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bg-BG",
+        "language_code": "bg",
+        "country_code": "BG",
+        "title": "Bulgarian, Bulgaria",
+        "country": "Bulgaria",
+        "language": "Bulgarian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bg-BG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bi-VU",
+        "language_code": "bi",
+        "country_code": "VU",
+        "title": "Bislama, Vanuatu",
+        "country": "Vanuatu",
+        "language": "Bislama"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bi-VU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bik"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bik-PH",
+        "language_code": "bik",
+        "country_code": "PH",
+        "title": "Bikol / Bicolano, Philippines",
+        "country": "Philippines",
+        "language": "Bikol / Bicolano"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bik-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bm"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bm-ML",
+        "language_code": "bm",
+        "country_code": "ML",
+        "title": "Bambara, Mali",
+        "country": "Mali",
+        "language": "Bambara"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bm-ML"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bn-BD",
+        "language_code": "bn",
+        "country_code": "BD",
+        "title": "Bengali, Bangladesh",
+        "country": "Bangladesh",
+        "language": "Bengali"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bn-BD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bo-CN",
+        "language_code": "bo",
+        "country_code": "CN",
+        "title": "Tibetan, China",
+        "country": "China",
+        "language": "Tibetan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bo-CN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "br"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "br-FR",
+        "language_code": "br",
+        "country_code": "FR",
+        "title": "Breton, France",
+        "country": "France",
+        "language": "Breton"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/br-FR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "bs"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "bs-BA",
+        "language_code": "bs",
+        "country_code": "BA",
+        "title": "Bosnian, Bosnia",
+        "country": "Bosnia",
+        "language": "Bosnian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/bs-BA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ca"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ca-ES",
+        "language_code": "ca",
+        "country_code": "ES",
+        "title": "Catalan, Spain",
+        "country": "Spain",
+        "language": "Catalan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ca-ES"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ce"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ce-RU",
+        "language_code": "ce",
+        "country_code": "RU",
+        "title": "Chechen, Russia",
+        "country": "Russia",
+        "language": "Chechen"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ce-RU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ceb"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ceb-PH",
+        "language_code": "ceb",
+        "country_code": "PH",
+        "title": "Cebuano / Bisayan, Philippines",
+        "country": "Philippines",
+        "language": "Cebuano / Bisayan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ceb-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ch"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ch-GU",
+        "language_code": "ch",
+        "country_code": "GU",
+        "title": "Chamorro, Guam",
+        "country": "Guam",
+        "language": "Chamorro"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ch-GU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "chr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "chr-US",
+        "language_code": "chr",
+        "country_code": "US",
+        "title": "Cherokee, United States",
+        "country": "United States",
+        "language": "Cherokee"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/chr-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "chy"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "chy-US",
+        "language_code": "chy",
+        "country_code": "US",
+        "title": "Cheyenne, United States",
+        "country": "United States",
+        "language": "Cheyenne"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/chy-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "co"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "co-FR",
+        "language_code": "co",
+        "country_code": "FR",
+        "title": "Corsican, France",
+        "country": "France",
+        "language": "Corsican"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/co-FR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "cs"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "cs-CZ",
+        "language_code": "cs",
+        "country_code": "CZ",
+        "title": "Czech, Czech Republic",
+        "country": "Czech Republic",
+        "language": "Czech"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/cs-CZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "cy"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "cy-GB",
+        "language_code": "cy",
+        "country_code": "GB",
+        "title": "Welsh, United Kingdom",
+        "country": "United Kingdom",
+        "language": "Welsh"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/cy-GB"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "da"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "da-DK",
+        "language_code": "da",
+        "country_code": "DK",
+        "title": "Danish, Denmark",
+        "country": "Denmark",
+        "language": "Danish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/da-DK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "de"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "de-DE",
+        "language_code": "de",
+        "country_code": "DE",
+        "title": "German, Germany",
+        "country": "Germany",
+        "language": "German"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/de-DE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "dik"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "dik-SD",
+        "language_code": "dik",
+        "country_code": "SD",
+        "title": "Thuongjang (Dinka), Sudan",
+        "country": "Sudan",
+        "language": "Thuongjang (Dinka)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/dik-SD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "dv"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "dv-MV",
+        "language_code": "dv",
+        "country_code": "MV",
+        "title": "Divehi, Maldives",
+        "country": "Maldives",
+        "language": "Divehi"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/dv-MV"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "dz"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "dz-BT",
+        "language_code": "dz",
+        "country_code": "BT",
+        "title": "Dzongkha, Bhutan",
+        "country": "Bhutan",
+        "language": "Dzongkha"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/dz-BT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ee"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ee-GH",
+        "language_code": "ee",
+        "country_code": "GH",
+        "title": "Ewe, Ghana",
+        "country": "Ghana",
+        "language": "Ewe"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ee-GH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "efi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "efi-NG",
+        "language_code": "efi",
+        "country_code": "NG",
+        "title": "Efik, Nigeria",
+        "country": "Nigeria",
+        "language": "Efik"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/efi-NG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "el"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "el-GR",
+        "language_code": "el",
+        "country_code": "GR",
+        "title": "Greek, Greece",
+        "country": "Greece",
+        "language": "Greek"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/el-GR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-AU",
+        "language_code": "en",
+        "country_code": "AU",
+        "title": "English, Australia",
+        "country": "Australia",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-AU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-CA",
+        "language_code": "en",
+        "country_code": "CA",
+        "title": "English, Canada",
+        "country": "Canada",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-CA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-GB",
+        "language_code": "en",
+        "country_code": "GB",
+        "title": "English, United Kingdom",
+        "country": "United Kingdom",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-GB"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-US",
+        "language_code": "en",
+        "country_code": "US",
+        "title": "English, United States",
+        "country": "United States",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-ZA",
+        "language_code": "en",
+        "country_code": "ZA",
+        "title": "English, South Africa",
+        "country": "South Africa",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "eo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "eo-FR",
+        "language_code": "eo",
+        "country_code": "FR",
+        "title": "Esperanto, France",
+        "country": "France",
+        "language": "Esperanto"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/eo-FR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-AR",
+        "language_code": "es",
+        "country_code": "AR",
+        "title": "Spanish, Argentina",
+        "country": "Argentina",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-AR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-BO",
+        "language_code": "es",
+        "country_code": "BO",
+        "title": "Spanish, Bolivia",
+        "country": "Bolivia",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-BO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-CL",
+        "language_code": "es",
+        "country_code": "CL",
+        "title": "Spanish, Chile",
+        "country": "Chile",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-CL"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-CO",
+        "language_code": "es",
+        "country_code": "CO",
+        "title": "Spanish, Colombia",
+        "country": "Colombia",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-CO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-CR",
+        "language_code": "es",
+        "country_code": "CR",
+        "title": "Spanish, Costa Rica",
+        "country": "Costa Rica",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-CR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-CU",
+        "language_code": "es",
+        "country_code": "CU",
+        "title": "Spanish, Cuba",
+        "country": "Cuba",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-CU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-DO",
+        "language_code": "es",
+        "country_code": "DO",
+        "title": "Spanish, Dominican Republic",
+        "country": "Dominican Republic",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-DO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-EC",
+        "language_code": "es",
+        "country_code": "EC",
+        "title": "Spanish, Ecuador",
+        "country": "Ecuador",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-EC"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-ES",
+        "language_code": "es",
+        "country_code": "ES",
+        "title": "Spanish, Spain",
+        "country": "Spain",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-ES"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-GT",
+        "language_code": "es",
+        "country_code": "GT",
+        "title": "Spanish, Guatemala",
+        "country": "Guatemala",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-GT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-HN",
+        "language_code": "es",
+        "country_code": "HN",
+        "title": "Spanish, Honduras",
+        "country": "Honduras",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-HN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-MX",
+        "language_code": "es",
+        "country_code": "MX",
+        "title": "Spanish, Mexico",
+        "country": "Mexico",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-MX"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-NI",
+        "language_code": "es",
+        "country_code": "NI",
+        "title": "Spanish, Nicaragua",
+        "country": "Nicaragua",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-NI"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-PA",
+        "language_code": "es",
+        "country_code": "PA",
+        "title": "Spanish, Panama",
+        "country": "Panama",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-PA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-PE",
+        "language_code": "es",
+        "country_code": "PE",
+        "title": "Spanish, Peru",
+        "country": "Peru",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-PE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-PR",
+        "language_code": "es",
+        "country_code": "PR",
+        "title": "Spanish, Puerto Rico",
+        "country": "Puerto Rico",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-PR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-PY",
+        "language_code": "es",
+        "country_code": "PY",
+        "title": "Spanish, Paraguay",
+        "country": "Paraguay",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-PY"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-SV",
+        "language_code": "es",
+        "country_code": "SV",
+        "title": "Spanish, El Salvador",
+        "country": "El Salvador",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-SV"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-UY",
+        "language_code": "es",
+        "country_code": "UY",
+        "title": "Spanish, Uruguay",
+        "country": "Uruguay",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-UY"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-VE",
+        "language_code": "es",
+        "country_code": "VE",
+        "title": "Spanish, Venezuela",
+        "country": "Venezuela",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-VE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "et"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "et-EE",
+        "language_code": "et",
+        "country_code": "EE",
+        "title": "Estonian, Estonia",
+        "country": "Estonia",
+        "language": "Estonian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/et-EE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "eu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "eu-ES",
+        "language_code": "eu",
+        "country_code": "ES",
+        "title": "Basque, Spain",
+        "country": "Spain",
+        "language": "Basque"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/eu-ES"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fa-IR",
+        "language_code": "fa",
+        "country_code": "IR",
+        "title": "Farsi (Persian), Iran",
+        "country": "Iran",
+        "language": "Farsi (Persian)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fa-IR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fat"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fat-GH",
+        "language_code": "fat",
+        "country_code": "GH",
+        "title": "Fanti (Akan), Ghana",
+        "country": "Ghana",
+        "language": "Fanti (Akan)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fat-GH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fi-FI",
+        "language_code": "fi",
+        "country_code": "FI",
+        "title": "Finnish, Finland",
+        "country": "Finland",
+        "language": "Finnish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fi-FI"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fj"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fj-FJ",
+        "language_code": "fj",
+        "country_code": "FJ",
+        "title": "Fijian, Fiji",
+        "country": "Fiji",
+        "language": "Fijian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fj-FJ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fj"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fj-IN",
+        "language_code": "fj",
+        "country_code": "IN",
+        "title": "Fijian, India",
+        "country": "India",
+        "language": "Fijian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fj-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fon"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fon-BJ",
+        "language_code": "fon",
+        "country_code": "BJ",
+        "title": "Fon, Benin",
+        "country": "Benin",
+        "language": "Fon"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fon-BJ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fr-CA",
+        "language_code": "fr",
+        "country_code": "CA",
+        "title": "French, Canadian",
+        "country": "Canadian",
+        "language": "French"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fr-CA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fr-FR",
+        "language_code": "fr",
+        "country_code": "FR",
+        "title": "French, France",
+        "country": "France",
+        "language": "French"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fr-FR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gaa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gaa-GH",
+        "language_code": "gaa",
+        "country_code": "GH",
+        "title": "Ga, Ghana",
+        "country": "Ghana",
+        "language": "Ga"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gaa-GH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gbz"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gbz-IR",
+        "language_code": "gbz",
+        "country_code": "IR",
+        "title": "Dari, Iran",
+        "country": "Iran",
+        "language": "Dari"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gbz-IR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gil"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gil-KI",
+        "language_code": "gil",
+        "country_code": "KI",
+        "title": "Gilbertese, Kiribati",
+        "country": "Kiribati",
+        "language": "Gilbertese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gil-KI"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gl-ES",
+        "language_code": "gl",
+        "country_code": "ES",
+        "title": "Galician, Spain",
+        "country": "Spain",
+        "language": "Galician"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gl-ES"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gn-BO",
+        "language_code": "gn",
+        "country_code": "BO",
+        "title": "Guarani, Bolivia",
+        "country": "Bolivia",
+        "language": "Guarani"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gn-BO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gu-IN",
+        "language_code": "gu",
+        "country_code": "IN",
+        "title": "Gujarati, India",
+        "country": "India",
+        "language": "Gujarati"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gu-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ha"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ha-NG",
+        "language_code": "ha",
+        "country_code": "NG",
+        "title": "Hausa, Nigeria",
+        "country": "Nigeria",
+        "language": "Hausa"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ha-NG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "haw"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "haw-US",
+        "language_code": "haw",
+        "country_code": "US",
+        "title": "Hawaiian, United States",
+        "country": "United States",
+        "language": "Hawaiian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/haw-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "he"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "he-IL",
+        "language_code": "he",
+        "country_code": "IL",
+        "title": "Hebrew, Israel",
+        "country": "Israel",
+        "language": "Hebrew"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/he-IL"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "hi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "hi-IN",
+        "language_code": "hi",
+        "country_code": "IN",
+        "title": "Hindi, India",
+        "country": "India",
+        "language": "Hindi"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/hi-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "hil"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "hil-PH",
+        "language_code": "hil",
+        "country_code": "PH",
+        "title": "Hiligaynon / Ilonngo, Philippines",
+        "country": "Philippines",
+        "language": "Hiligaynon / Ilonngo"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/hil-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "hmn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "hmn-LA",
+        "language_code": "hmn",
+        "country_code": "LA",
+        "title": "Hmong, Laos",
+        "country": "Laos",
+        "language": "Hmong"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/hmn-LA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "hr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "hr-HR",
+        "language_code": "hr",
+        "country_code": "HR",
+        "title": "Croatian, Croatia",
+        "country": "Croatia",
+        "language": "Croatian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/hr-HR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ht"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ht-HT",
+        "language_code": "ht",
+        "country_code": "HT",
+        "title": "Haitian Creole, Haiti",
+        "country": "Haiti",
+        "language": "Haitian Creole"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ht-HT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "hu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "hu-HU",
+        "language_code": "hu",
+        "country_code": "HU",
+        "title": "Hungarian, Hungary",
+        "country": "Hungary",
+        "language": "Hungarian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/hu-HU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "hy"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "hy-AM",
+        "language_code": "hy",
+        "country_code": "AM",
+        "title": "Armenian, Armenia",
+        "country": "Armenia",
+        "language": "Armenian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/hy-AM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "id"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "id-ID",
+        "language_code": "id",
+        "country_code": "ID",
+        "title": "Indonesian, Indonesia",
+        "country": "Indonesia",
+        "language": "Indonesian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/id-ID"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ig"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ig-NG",
+        "language_code": "ig",
+        "country_code": "NG",
+        "title": "Igbo, Nigeria",
+        "country": "Nigeria",
+        "language": "Igbo"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ig-NG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "Ilo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ilo-PH",
+        "language_code": "Ilo",
+        "country_code": "PH",
+        "title": "Iloko / Ilocano, Philippines",
+        "country": "Philippines",
+        "language": "Iloko / Ilocano"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ilo-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "is"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "is-IS",
+        "language_code": "is",
+        "country_code": "IS",
+        "title": "Icelandic, Iceland",
+        "country": "Iceland",
+        "language": "Icelandic"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/is-IS"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "it"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "it-IT",
+        "language_code": "it",
+        "country_code": "IT",
+        "title": "Italian, Italy",
+        "country": "Italy",
+        "language": "Italian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/it-IT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ja"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ja-JP",
+        "language_code": "ja",
+        "country_code": "JP",
+        "title": "Japanese, Japan",
+        "country": "Japan",
+        "language": "Japanese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ja-JP"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "jv"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "jv-ID",
+        "language_code": "jv",
+        "country_code": "ID",
+        "title": "Javanese, Indonesia",
+        "country": "Indonesia",
+        "language": "Javanese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/jv-ID"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ka"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ka-GE",
+        "language_code": "ka",
+        "country_code": "GE",
+        "title": "Georgian, Georgia",
+        "country": "Georgia",
+        "language": "Georgian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ka-GE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kek"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kek-GT",
+        "language_code": "kek",
+        "country_code": "GT",
+        "title": "Q'eqchi' / Kekchi', Guatemala",
+        "country": "Guatemala",
+        "language": "Q'eqchi' / Kekchi'"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kek-GT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kg"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kg-CD",
+        "language_code": "kg",
+        "country_code": "CD",
+        "title": "Kongo / Kikongo, Congo",
+        "country": "Congo",
+        "language": "Kongo / Kikongo"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kg-CD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kik"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kik-KE",
+        "language_code": "kik",
+        "country_code": "KE",
+        "title": "Kikuyu / Gikuyu, Kenya",
+        "country": "Kenya",
+        "language": "Kikuyu / Gikuyu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kik-KE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kin"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kin-RW",
+        "language_code": "kin",
+        "country_code": "RW",
+        "title": "Rwanda / Kinyarwanda, Rwanda",
+        "country": "Rwanda",
+        "language": "Rwanda / Kinyarwanda"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kin-RW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kj"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kj-AO",
+        "language_code": "kj",
+        "country_code": "AO",
+        "title": "Kwanyama, Angola",
+        "country": "Angola",
+        "language": "Kwanyama"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kj-AO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kk"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kk-KZ",
+        "language_code": "kk",
+        "country_code": "KZ",
+        "title": "Kazakh, Kazakhstan",
+        "country": "Kazakhstan",
+        "language": "Kazakh"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kk-KZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "km"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "km-KH",
+        "language_code": "km",
+        "country_code": "KH",
+        "title": "Cambodian / Khmer, Cambodia",
+        "country": "Cambodia",
+        "language": "Cambodian / Khmer"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/km-KH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kn-IN",
+        "language_code": "kn",
+        "country_code": "IN",
+        "title": "Kannada, India",
+        "country": "India",
+        "language": "Kannada"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kn-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ko"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ko-KR",
+        "language_code": "ko",
+        "country_code": "KR",
+        "title": "Korean, Korea",
+        "country": "Korea",
+        "language": "Korean"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ko-KR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kos"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kos-FM",
+        "language_code": "kos",
+        "country_code": "FM",
+        "title": "Kosraean, Micronesia",
+        "country": "Micronesia",
+        "language": "Kosraean"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kos-FM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ks"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ks-IN",
+        "language_code": "ks",
+        "country_code": "IN",
+        "title": "Kashmiri, India",
+        "country": "India",
+        "language": "Kashmiri"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ks-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ku"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ku-IQ",
+        "language_code": "ku",
+        "country_code": "IQ",
+        "title": "Kurdish, Iraq",
+        "country": "Iraq",
+        "language": "Kurdish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ku-IQ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "kw"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "kw-GB",
+        "language_code": "kw",
+        "country_code": "GB",
+        "title": "Cornish, United Kingdom",
+        "country": "United Kingdom",
+        "language": "Cornish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/kw-GB"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ky"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ky-KG",
+        "language_code": "ky",
+        "country_code": "KG",
+        "title": "Kirghiz, Kyrgyzstan",
+        "country": "Kyrgyzstan",
+        "language": "Kirghiz"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ky-KG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "la"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "la-VA",
+        "language_code": "la",
+        "country_code": "VA",
+        "title": "Latin, Vatican City",
+        "country": "Vatican City",
+        "language": "Latin"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/la-VA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "lb"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "lb-LU",
+        "language_code": "lb",
+        "country_code": "LU",
+        "title": "Luxembourgeois, Luxembourg",
+        "country": "Luxembourg",
+        "language": "Luxembourgeois"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/lb-LU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "lg"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "lg-UG",
+        "language_code": "lg",
+        "country_code": "UG",
+        "title": "Ganda, Uganda",
+        "country": "Uganda",
+        "language": "Ganda"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/lg-UG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ln"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ln-CD",
+        "language_code": "ln",
+        "country_code": "CD",
+        "title": "Lingala, Congo",
+        "country": "Congo",
+        "language": "Lingala"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ln-CD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "lo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "lo-LA",
+        "language_code": "lo",
+        "country_code": "LA",
+        "title": "Lao, Laos",
+        "country": "Laos",
+        "language": "Lao"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/lo-LA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "lt"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "lt-LT",
+        "language_code": "lt",
+        "country_code": "LT",
+        "title": "Lithuanian, Lithuania",
+        "country": "Lithuania",
+        "language": "Lithuanian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/lt-LT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "lu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "lu-CD",
+        "language_code": "lu",
+        "country_code": "CD",
+        "title": "Luba_Katanga, Congo",
+        "country": "Congo",
+        "language": "Luba_Katanga"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/lu-CD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "lv"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "lv-LV",
+        "language_code": "lv",
+        "country_code": "LV",
+        "title": "Latvian, Latvia",
+        "country": "Latvia",
+        "language": "Latvian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/lv-LV"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mg"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mg-MG",
+        "language_code": "mg",
+        "country_code": "MG",
+        "title": "Malagasy, Madagascar",
+        "country": "Madagascar",
+        "language": "Malagasy"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mg-MG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mh"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mh-MH",
+        "language_code": "mh",
+        "country_code": "MH",
+        "title": "Marshallese, Marshal Islands",
+        "country": "Marshal Islands",
+        "language": "Marshallese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mh-MH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mi-NZ",
+        "language_code": "mi",
+        "country_code": "NZ",
+        "title": "Maori, New Zealand",
+        "country": "New Zealand",
+        "language": "Maori"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mi-NZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mk"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mk-MK",
+        "language_code": "mk",
+        "country_code": "MK",
+        "title": "Macedonian, Macedonia",
+        "country": "Macedonia",
+        "language": "Macedonian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mk-MK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ml"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ml-IN",
+        "language_code": "ml",
+        "country_code": "IN",
+        "title": "Malayalam, India",
+        "country": "India",
+        "language": "Malayalam"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ml-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mn-MN",
+        "language_code": "mn",
+        "country_code": "MN",
+        "title": "Mongolian, Mongolia",
+        "country": "Mongolia",
+        "language": "Mongolian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mn-MN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mo-MD",
+        "language_code": "mo",
+        "country_code": "MD",
+        "title": "Moldavian, Moldova",
+        "country": "Moldova",
+        "language": "Moldavian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mo-MD"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mr-IN",
+        "language_code": "mr",
+        "country_code": "IN",
+        "title": "Marathi, India",
+        "country": "India",
+        "language": "Marathi"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mr-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ms"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ms-MY",
+        "language_code": "ms",
+        "country_code": "MY",
+        "title": "Malay Bahasa Melayu, Malaysia",
+        "country": "Malaysia",
+        "language": "Malay Bahasa Melayu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ms-MY"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "mt"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "mt-MT",
+        "language_code": "mt",
+        "country_code": "MT",
+        "title": "Maltese, Malta",
+        "country": "Malta",
+        "language": "Maltese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/mt-MT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "my"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "my-MM",
+        "language_code": "my",
+        "country_code": "MM",
+        "title": "Burmese, Myanmar",
+        "country": "Myanmar",
+        "language": "Burmese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/my-MM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "na"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "na-NR",
+        "language_code": "na",
+        "country_code": "NR",
+        "title": "Nauruan, Nauru",
+        "country": "Nauru",
+        "language": "Nauruan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/na-NR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nb"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nb-NO",
+        "language_code": "nb",
+        "country_code": "NO",
+        "title": "Norwegian Bokmal, Norway",
+        "country": "Norway",
+        "language": "Norwegian Bokmal"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nb-NO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nd"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nd-ZW",
+        "language_code": "nd",
+        "country_code": "ZW",
+        "title": "Ndebele, Zimbabwe",
+        "country": "Zimbabwe",
+        "language": "Ndebele"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nd-ZW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ne"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ne-NP",
+        "language_code": "ne",
+        "country_code": "NP",
+        "title": "Nepali, Nepal",
+        "country": "Nepal",
+        "language": "Nepali"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ne-NP"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ng"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ng-NA",
+        "language_code": "ng",
+        "country_code": "NA",
+        "title": "Ndonga, Nambia",
+        "country": "Nambia",
+        "language": "Ndonga"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ng-NA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "niu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "niu-NU",
+        "language_code": "niu",
+        "country_code": "NU",
+        "title": "Niuean, Niue",
+        "country": "Niue",
+        "language": "Niuean"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/niu-NU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nl-NL",
+        "language_code": "nl",
+        "country_code": "NL",
+        "title": "Dutch, Netherlands",
+        "country": "Netherlands",
+        "language": "Dutch"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nl-NL"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nn-NO",
+        "language_code": "nn",
+        "country_code": "NO",
+        "title": "Norwegian Nynorsk, Norway",
+        "country": "Norway",
+        "language": "Norwegian Nynorsk"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nn-NO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "no"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "no-NO",
+        "language_code": "no",
+        "country_code": "NO",
+        "title": "Norwegian, Norway",
+        "country": "Norway",
+        "language": "Norwegian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/no-NO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nr-ZA",
+        "language_code": "nr",
+        "country_code": "ZA",
+        "title": "Ndebele, South Africa",
+        "country": "South Africa",
+        "language": "Ndebele"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nr-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nso"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nso-ZA",
+        "language_code": "nso",
+        "country_code": "ZA",
+        "title": "Sotho Northern, South Africa",
+        "country": "South Africa",
+        "language": "Sotho Northern"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nso-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nv"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nv-US",
+        "language_code": "nv",
+        "country_code": "US",
+        "title": "Navajo, United States",
+        "country": "United States",
+        "language": "Navajo"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nv-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ny"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ny-MW",
+        "language_code": "ny",
+        "country_code": "MW",
+        "title": "Chichewa / Nyanja, Malawi",
+        "country": "Malawi",
+        "language": "Chichewa / Nyanja"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ny-MW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "om"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "om-ET",
+        "language_code": "om",
+        "country_code": "ET",
+        "title": "Oromo, Ethiopia",
+        "country": "Ethiopia",
+        "language": "Oromo"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/om-ET"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "or"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "or-IN",
+        "language_code": "or",
+        "country_code": "IN",
+        "title": "Oriya, India",
+        "country": "India",
+        "language": "Oriya"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/or-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pag"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pag-PH",
+        "language_code": "pag",
+        "country_code": "PH",
+        "title": "Pangasinan, Philippines",
+        "country": "Philippines",
+        "language": "Pangasinan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pag-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pap"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pap-AN",
+        "language_code": "pap",
+        "country_code": "AN",
+        "title": "Papiamentu, Netherland Antilles",
+        "country": "Netherland Antilles",
+        "language": "Papiamentu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pap-AN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pau"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pau-PW",
+        "language_code": "pau",
+        "country_code": "PW",
+        "title": "Palauan, Palau",
+        "country": "Palau",
+        "language": "Palauan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pau-PW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pl-PL",
+        "language_code": "pl",
+        "country_code": "PL",
+        "title": "Polish, Poland",
+        "country": "Poland",
+        "language": "Polish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pl-PL"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ps"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ps-AF",
+        "language_code": "ps",
+        "country_code": "AF",
+        "title": "Pushto / Pashto, Afghanistan",
+        "country": "Afghanistan",
+        "language": "Pushto / Pashto"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ps-AF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pt"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pt-BR",
+        "language_code": "pt",
+        "country_code": "BR",
+        "title": "Portuguese, Brazil",
+        "country": "Brazil",
+        "language": "Portuguese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pt-BR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pt"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pt-PT",
+        "language_code": "pt",
+        "country_code": "PT",
+        "title": "Portuguese, Portugal",
+        "country": "Portugal",
+        "language": "Portuguese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pt-PT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "qu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "qu-BO",
+        "language_code": "qu",
+        "country_code": "BO",
+        "title": "Quechua, Bolivian",
+        "country": "Bolivian",
+        "language": "Quechua"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/qu-BO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "rar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "rar-CK",
+        "language_code": "rar",
+        "country_code": "CK",
+        "title": "Rarotongan, Cook Islands",
+        "country": "Cook Islands",
+        "language": "Rarotongan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/rar-CK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "rn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "rn-BI",
+        "language_code": "rn",
+        "country_code": "BI",
+        "title": "Rundi, Burundi",
+        "country": "Burundi",
+        "language": "Rundi"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/rn-BI"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ro"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ro-RO",
+        "language_code": "ro",
+        "country_code": "RO",
+        "title": "Romanian, Romania",
+        "country": "Romania",
+        "language": "Romanian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ro-RO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ru"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ru-RU",
+        "language_code": "ru",
+        "country_code": "RU",
+        "title": "Russian, Russia",
+        "country": "Russia",
+        "language": "Russian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ru-RU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sa-IN",
+        "language_code": "sa",
+        "country_code": "IN",
+        "title": "Sanskrit, India",
+        "country": "India",
+        "language": "Sanskrit"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sa-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "qu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "qu-PE",
+        "language_code": "qu",
+        "country_code": "PE",
+        "title": "Quechua, Peru",
+        "country": "Peru",
+        "language": "Quechua"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/qu-PE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sc"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sc-IT",
+        "language_code": "sc",
+        "country_code": "IT",
+        "title": "Sardinian, Italy",
+        "country": "Italy",
+        "language": "Sardinian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sc-IT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "scn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "scn-IT",
+        "language_code": "scn",
+        "country_code": "IT",
+        "title": "Sicilian, Italy",
+        "country": "Italy",
+        "language": "Sicilian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/scn-IT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sd"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sd-PK",
+        "language_code": "sd",
+        "country_code": "PK",
+        "title": "Sindhi, Pakistan",
+        "country": "Pakistan",
+        "language": "Sindhi"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sd-PK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sg"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sg-CF",
+        "language_code": "sg",
+        "country_code": "CF",
+        "title": "Sango, Central African Rep.",
+        "country": "Central African Rep.",
+        "language": "Sango"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sg-CF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "si"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "si-LK",
+        "language_code": "si",
+        "country_code": "LK",
+        "title": "Sinhala, Sri Lanka",
+        "country": "Sri Lanka",
+        "language": "Sinhala"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/si-LK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sk"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sk-SK",
+        "language_code": "sk",
+        "country_code": "SK",
+        "title": "Slovak, Slovakia",
+        "country": "Slovakia",
+        "language": "Slovak"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sk-SK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sl-SI",
+        "language_code": "sl",
+        "country_code": "SI",
+        "title": "Slovenian, Slovenia",
+        "country": "Slovenia",
+        "language": "Slovenian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sl-SI"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sm"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sm-WS",
+        "language_code": "sm",
+        "country_code": "WS",
+        "title": "Samoan, Samoa",
+        "country": "Samoa",
+        "language": "Samoan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sm-WS"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sn-ZW",
+        "language_code": "sn",
+        "country_code": "ZW",
+        "title": "Shona, Zimbabwe",
+        "country": "Zimbabwe",
+        "language": "Shona"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sn-ZW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "so"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "so-SO",
+        "language_code": "so",
+        "country_code": "SO",
+        "title": "Somali, Somalia",
+        "country": "Somalia",
+        "language": "Somali"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/so-SO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sq"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sq-SQ",
+        "language_code": "sq",
+        "country_code": "SQ",
+        "title": "Albanian, Albania",
+        "country": "Albania",
+        "language": "Albanian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sq-SQ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sr-CS",
+        "language_code": "sr",
+        "country_code": "CS",
+        "title": "Serbian, Serbia",
+        "country": "Serbia",
+        "language": "Serbian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sr-CS"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ss"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ss-SZ",
+        "language_code": "ss",
+        "country_code": "SZ",
+        "title": "Swati, Swaziland",
+        "country": "Swaziland",
+        "language": "Swati"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ss-SZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "st"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "st-LS",
+        "language_code": "st",
+        "country_code": "LS",
+        "title": "Sotho Southern, Lesotho",
+        "country": "Lesotho",
+        "language": "Sotho Southern"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/st-LS"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "su"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "su-ID",
+        "language_code": "su",
+        "country_code": "ID",
+        "title": "Sundanese, Sunda",
+        "country": "Sunda",
+        "language": "Sundanese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/su-ID"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sv"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sv-SE",
+        "language_code": "sv",
+        "country_code": "SE",
+        "title": "Swedish, Sweden",
+        "country": "Sweden",
+        "language": "Swedish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sv-SE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "sw"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "sw-TZ",
+        "language_code": "sw",
+        "country_code": "TZ",
+        "title": "Swahili, Tanzania",
+        "country": "Tanzania",
+        "language": "Swahili"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/sw-TZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ta"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ta-IN",
+        "language_code": "ta",
+        "country_code": "IN",
+        "title": "Tamil, India",
+        "country": "India",
+        "language": "Tamil"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ta-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "te"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "te-IN",
+        "language_code": "te",
+        "country_code": "IN",
+        "title": "Telugu, India",
+        "country": "India",
+        "language": "Telugu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/te-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tg"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tg-TJ",
+        "language_code": "tg",
+        "country_code": "TJ",
+        "title": "Tajiki, Tajikistan",
+        "country": "Tajikistan",
+        "language": "Tajiki"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tg-TJ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "th"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "th-TH",
+        "language_code": "th",
+        "country_code": "TH",
+        "title": "Thai, Thailand",
+        "country": "Thailand",
+        "language": "Thai"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/th-TH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ti"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ti-ER",
+        "language_code": "ti",
+        "country_code": "ER",
+        "title": "Tigrigna / Tigrinya, Eritrea",
+        "country": "Eritrea",
+        "language": "Tigrigna / Tigrinya"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ti-ER"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tk"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tk-TM",
+        "language_code": "tk",
+        "country_code": "TM",
+        "title": "Turkmen, Turkmenistan",
+        "country": "Turkmenistan",
+        "language": "Turkmen"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tk-TM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tl-PH",
+        "language_code": "tl",
+        "country_code": "PH",
+        "title": "Tagalog, Philippines",
+        "country": "Philippines",
+        "language": "Tagalog"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tl-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tn"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tn-BW",
+        "language_code": "tn",
+        "country_code": "BW",
+        "title": "Tswana, Botswana",
+        "country": "Botswana",
+        "language": "Tswana"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tn-BW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "to"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "to-TO",
+        "language_code": "to",
+        "country_code": "TO",
+        "title": "Tongan, Tonga",
+        "country": "Tonga",
+        "language": "Tongan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/to-TO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tpi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tpi-PG",
+        "language_code": "tpi",
+        "country_code": "PG",
+        "title": "Tok Pisin, Papua New Guinea",
+        "country": "Papua New Guinea",
+        "language": "Tok Pisin"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tpi-PG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tr-TR",
+        "language_code": "tr",
+        "country_code": "TR",
+        "title": "Turkish, Turkey",
+        "country": "Turkey",
+        "language": "Turkish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tr-TR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ts"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ts-ZA",
+        "language_code": "ts",
+        "country_code": "ZA",
+        "title": "Tsonga, South Africa",
+        "country": "South Africa",
+        "language": "Tsonga"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ts-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tum"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tum-MW",
+        "language_code": "tum",
+        "country_code": "MW",
+        "title": "Tumbuku, Malawi",
+        "country": "Malawi",
+        "language": "Tumbuku"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tum-MW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tvl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tvl-TV",
+        "language_code": "tvl",
+        "country_code": "TV",
+        "title": "Tuvaluan, Tuvalu",
+        "country": "Tuvalu",
+        "language": "Tuvaluan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tvl-TV"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "tw"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "tw-GH",
+        "language_code": "tw",
+        "country_code": "GH",
+        "title": "Twi (Akan), Ghana",
+        "country": "Ghana",
+        "language": "Twi (Akan)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/tw-GH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ty"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ty-PF",
+        "language_code": "ty",
+        "country_code": "PF",
+        "title": "Tahitian, French Polynesia",
+        "country": "French Polynesia",
+        "language": "Tahitian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ty-PF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ug"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ug-CN",
+        "language_code": "ug",
+        "country_code": "CN",
+        "title": "Uyghur / Uighur, China",
+        "country": "China",
+        "language": "Uyghur / Uighur"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ug-CN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "uk"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "uk-UA",
+        "language_code": "uk",
+        "country_code": "UA",
+        "title": "Ukrainian, Ukraine",
+        "country": "Ukraine",
+        "language": "Ukrainian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/uk-UA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "um"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "um-AO",
+        "language_code": "um",
+        "country_code": "AO",
+        "title": "Umbundu, Angola",
+        "country": "Angola",
+        "language": "Umbundu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/um-AO"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ur"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ur-PK",
+        "language_code": "ur",
+        "country_code": "PK",
+        "title": "Urdu, Pakistan",
+        "country": "Pakistan",
+        "language": "Urdu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ur-PK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "uz"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "uz-UZ",
+        "language_code": "uz",
+        "country_code": "UZ",
+        "title": "Uzbek, Uzbekistan",
+        "country": "Uzbekistan",
+        "language": "Uzbek"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/uz-UZ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ve"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ve-ZA",
+        "language_code": "ve",
+        "country_code": "ZA",
+        "title": "Venda, South Africa",
+        "country": "South Africa",
+        "language": "Venda"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ve-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "vi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "vi-VN",
+        "language_code": "vi",
+        "country_code": "VN",
+        "title": "Vietnamese, Viet Nam",
+        "country": "Viet Nam",
+        "language": "Vietnamese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/vi-VN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "war"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "war-PH",
+        "language_code": "war",
+        "country_code": "PH",
+        "title": "Waray, Philippines",
+        "country": "Philippines",
+        "language": "Waray"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/war-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "wo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "wo-SN",
+        "language_code": "wo",
+        "country_code": "SN",
+        "title": "Wolof, Senegal",
+        "country": "Senegal",
+        "language": "Wolof"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/wo-SN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "xh"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "xh-ZA",
+        "language_code": "xh",
+        "country_code": "ZA",
+        "title": "Xhosa, South Africa",
+        "country": "South Africa",
+        "language": "Xhosa"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/xh-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "yap"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "yap-FM",
+        "language_code": "yap",
+        "country_code": "FM",
+        "title": "Yapese, Micronesia",
+        "country": "Micronesia",
+        "language": "Yapese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/yap-FM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "yi"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "yi-IL",
+        "language_code": "yi",
+        "country_code": "IL",
+        "title": "Yiddish, Israel",
+        "country": "Israel",
+        "language": "Yiddish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/yi-IL"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "yo"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "yo-NG",
+        "language_code": "yo",
+        "country_code": "NG",
+        "title": "Yoruba, Nigeria",
+        "country": "Nigeria",
+        "language": "Yoruba"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/yo-NG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "zh"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "zh-CN",
+        "language_code": "zh",
+        "country_code": "CN",
+        "title": "Chinese, China",
+        "country": "China",
+        "language": "Chinese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/zh-CN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "zh"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "zh-HK",
+        "language_code": "zh",
+        "country_code": "HK",
+        "title": "Chinese, Hong Kong",
+        "country": "Hong Kong",
+        "language": "Chinese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/zh-HK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "zh"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "zh-SG",
+        "language_code": "zh",
+        "country_code": "SG",
+        "title": "Chinese, Singapore",
+        "country": "Singapore",
+        "language": "Chinese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/zh-SG"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "zh"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "zh-TW",
+        "language_code": "zh",
+        "country_code": "TW",
+        "title": "Chinese, Taiwan",
+        "country": "Taiwan",
+        "language": "Chinese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/zh-TW"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "zu"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "zu-ZA",
+        "language_code": "zu",
+        "country_code": "ZA",
+        "title": "Zulu, South Africa",
+        "country": "South Africa",
+        "language": "Zulu"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/zu-ZA"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-US",
+        "language_code": "es",
+        "country_code": "US",
+        "title": "Spanish, United States",
+        "country": "United States",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fr-US",
+        "language_code": "fr",
+        "country_code": "US",
+        "title": "French (Cajun), United States",
+        "country": "United States",
+        "language": "French (Cajun)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fr-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "gd"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "gd-GB",
+        "language_code": "gd",
+        "country_code": "GB",
+        "title": "Gaelic (Scottish), United Kingdom",
+        "country": "United Kingdom",
+        "language": "Gaelic (Scottish)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/gd-GB"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ga"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ga-IE",
+        "language_code": "ga",
+        "country_code": "IE",
+        "title": "Irish, Ireland",
+        "country": "Ireland",
+        "language": "Irish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ga-IE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pa-IN",
+        "language_code": "pa",
+        "country_code": "IN",
+        "title": "Punjabi (Indian script), India",
+        "country": "India",
+        "language": "Punjabi (Indian script)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pa-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pa-PK",
+        "language_code": "pa",
+        "country_code": "PK",
+        "title": "Punjabi (Latin script), Pakistan",
+        "country": "Pakistan",
+        "language": "Punjabi (Latin script)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pa-PK"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "nl"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "nl-BE",
+        "language_code": "nl",
+        "country_code": "BE",
+        "title": "Dutch, Belgium",
+        "country": "Belgium",
+        "language": "Dutch"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/nl-BE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "de"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "de-CH",
+        "language_code": "de",
+        "country_code": "CH",
+        "title": "German, Switzerland",
+        "country": "Switzerland",
+        "language": "German"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/de-CH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "it"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "it-CH",
+        "language_code": "it",
+        "country_code": "CH",
+        "title": "Italian, Switzerland",
+        "country": "Switzerland",
+        "language": "Italian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/it-CH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fr-CH",
+        "language_code": "fr",
+        "country_code": "CH",
+        "title": "French, Switzerland",
+        "country": "Switzerland",
+        "language": "French"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fr-CH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "de"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "de-AT",
+        "language_code": "de",
+        "country_code": "AT",
+        "title": "German, Austria",
+        "country": "Austria",
+        "language": "German"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/de-AT"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "chk"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "chk-FM",
+        "language_code": "chk",
+        "country_code": "FM",
+        "title": "Chuukese, Micronesia",
+        "country": "Micronesia",
+        "language": "Chuukese"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/chk-FM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pam"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pam-PH",
+        "language_code": "pam",
+        "country_code": "PH",
+        "title": "Pampangan, Philippines",
+        "country": "Philippines",
+        "language": "Pampangan"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pam-PH"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "pon"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "pon-FM",
+        "language_code": "pon",
+        "country_code": "FM",
+        "title": "Pohnpeian, Micronesia",
+        "country": "Micronesia",
+        "language": "Pohnpeian"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/pon-FM"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "prs"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "prs-AF",
+        "language_code": "prs",
+        "country_code": "AF",
+        "title": "Dari, Afghanistan",
+        "country": "Afghanistan",
+        "language": "Dari"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/prs-AF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "aiq"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "aiq-AF",
+        "language_code": "aiq",
+        "country_code": "AF",
+        "title": "Aimaq, Afghanistan",
+        "country": "Afghanistan",
+        "language": "Aimaq"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/aiq-AF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "haz"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "haz-AF",
+        "language_code": "haz",
+        "country_code": "AF",
+        "title": "Hazaragi, Afghanistan",
+        "country": "Afghanistan",
+        "language": "Hazaragi"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/haz-AF"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "cpe"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "cpe-US",
+        "language_code": "cpe",
+        "country_code": "US",
+        "title": "English Creoles and Pidgins",
+        "country": "",
+        "language": "English Creoles and Pidgins"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/cpe-US"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "cpf"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "cpf-MU",
+        "language_code": "cpf",
+        "country_code": "MU",
+        "title": "French Creoles and Pidgins",
+        "country": "",
+        "language": "French Creoles and Pidgins"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/cpf-MU"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "cpp"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "cpp-BR",
+        "language_code": "cpp",
+        "country_code": "BR",
+        "title": "Portuguese Creoles and Pidgins",
+        "country": "",
+        "language": "Portuguese Creoles and Pidgins"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/cpp-BR"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "ar"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "ar",
+        "language_code": "ar",
+        "country_code": "",
+        "title": "Arabic (Standard)",
+        "country": "",
+        "language": "Arabic (Standard)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/ar"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "aa"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "aa-DJ",
+        "language_code": "aa",
+        "country_code": "DJ",
+        "title": "Afar, Djibouti",
+        "country": "Djibouti",
+        "language": "Afar"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/aa-DJ"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-IE",
+        "language_code": "en",
+        "country_code": "IE",
+        "title": "English, Ireland",
+        "country": "Ireland",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-IE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "es"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "es-419",
+        "language_code": "es",
+        "country_code": "419",
+        "title": "Spanish, Latin America",
+        "country": "Latin America",
+        "language": "Spanish"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/es-419"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "en"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "en-IN",
+        "language_code": "en",
+        "country_code": "IN",
+        "title": "English, India",
+        "country": "India",
+        "language": "English"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/en-IN"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "fr"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "fr-BE",
+        "language_code": "fr",
+        "country_code": "BE",
+        "title": "French, Belgium",
+        "country": "Belgium",
+        "language": "French"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/fr-BE"
+        }
+      ]
+    },
+    {
+      "class": [
+        "locale",
+        "vls"
+      ],
+      "rel": [
+        "locale"
+      ],
+      "properties": {
+        "code": "vls-BE",
+        "language_code": "vls",
+        "country_code": "BE",
+        "title": "Vlaams (West Flemish), Belgium",
+        "country": "Belgium",
+        "language": "Vlaams (West Flemish)"
+      },
+      "links": [
+        {
+          "rel": [
+            "self"
+          ],
+          "href": "/locale/vls-BE"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": [
+        "self"
+      ],
+      "href": "locale?offset=0&limit=10000000"
+    }
+  ]
+}
