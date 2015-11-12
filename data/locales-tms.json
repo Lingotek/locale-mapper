@@ -5,7 +5,7 @@
   ],
   "properties": {
     "title": "Locales",
-    "limit": 10000000,
+    "limit": 500,
     "total": 254,
     "offset": 0,
     "size": 254

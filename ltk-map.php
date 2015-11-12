@@ -17,13 +17,8 @@ sort($lingotek_locales);
 $locales_filename = $argv[1];//'zendesk-locales.txt'
 $details = !(strpos($argv[2], '-json')!==FALSE);//"json only"
 
-$language_default_locales = array_flip((array)json_decode(str_replace("_", "-", file_get_contents('data/language-default-locales.json'))));
-//print_r($language_default_locales); die("STOP");
-
-
-
+$language_default_locales = (array)json_decode(file_get_contents('data/language-default-locales.json'));
 $locales_to_map = explode("\n", file_get_contents($locales_filename));
-//print_r($locales_to_map); die("STOP");
 
 $new_locale_map = array_fill_keys($locales_to_map,"");
 
@@ -49,7 +44,9 @@ function find_lingotek_locale($locale) {
 
 	if($found_lingotek_locale==FALSE && !preg_match('/[_\-]/',$locale)){
 		// Language only provided, use most likely locale
-		$found_lingotek_locale = array_search($locale, $language_default_locales);
+		if(array_key_exists($locale, $language_default_locales)){
+			$found_lingotek_locale = $language_default_locales[$locale];
+		}
 	}
 
 	return $found_lingotek_locale;
