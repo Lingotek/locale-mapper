@@ -1,6 +1,6 @@
 ## Lingotek Locale Mapper ##
 
-This tool is used to generate a mapping file (in JSON) that maps and analyzes a list of language/locale codes from a system being connected to the Lingotek Network.  The result is a mapping file that has each language/locale code mapped to a Lingotek locale. 
+Generates a mapping file (in JSON) by analyzing a list of language/locale codes from a system being connected to the Lingotek Network.  The result is a report and mapping file that has each language/locale code mapped to a Lingotek locale. 
 
 It also reports on: 
 
