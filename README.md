@@ -1,8 +1,8 @@
 ## Lingotek Locale Mapper ##
 
-Generates a mapping file (in JSON) by analyzing a list of language/locale codes from a system being connected to the Lingotek Network.  The result is a report and mapping file that has each language/locale code mapped to a Lingotek locale. 
+Generates a mapping file (in JSON) by analyzing a list of language/locale codes from a system being connected to the Lingotek Network.  The result is a report and mapping file that has each language/locale code mapped to a Lingotek locale.
 
-It also reports on: 
+It also reports on:
 
 * *missing locales* - no Lingotek locale was found
 * *collisions* - locales that map to more than one code

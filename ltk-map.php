@@ -1,10 +1,12 @@
 <?php
 
-if(!$argv[1]){
+if(!isset($argv[1])){
 	print "Usage: php ltk-map.php [locales-to-map-filename]\n\n";
 	print "Tip: add '-json' after the filename to only print out JSON\n";
 	exit();
 }
+
+$switch = isset($argv[2]) ? $argv[2] : '';
 
 $lingotek_locales = [];
 
@@ -15,10 +17,10 @@ foreach($lingotek_locales_tms->entities as $locale_obj){
 sort($lingotek_locales);
 
 $locales_filename = $argv[1];//ex. 'zendesk-locales.txt'
-$details = !(strpos($argv[2], '-json')!==FALSE);//"json only"
+$details = !(strpos($switch, '-json')!==FALSE);//"json only"
 
 $language_default_locales = (array)json_decode(file_get_contents('data/language-default-locales.json'));
-$locales_to_map = explode("\n", file_get_contents($locales_filename));
+$locales_to_map = array_filter(explode("\n", file_get_contents($locales_filename)));
 
 $new_locale_map = array_fill_keys($locales_to_map,"");
 
